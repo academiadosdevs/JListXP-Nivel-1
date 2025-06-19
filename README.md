@@ -1,9 +1,13 @@
 # 🧙‍♂️ JList XP – Nível 1 (Java Estruturado)
 
-Lista de exercícios complementares para o curso **Java Estruturado** do canal [Academia dos Devs](https://youtube.com/@academiadosdevs).
+O gabarito oficial da jornada de XP para quem quer sair do básico e realmente praticar Java.
 
-Este repositório é o **campo de treino oficial** para você subir de nível na programação com Java.  
-Prepare-se para ganhar XP resolvendo desafios práticos, do básico ao intermediário.
+> ⚠️ Este repositório é o **gabarito oficial** da **JList XP Nível 1**, um infoproduto da [Academia dos Devs](https://youtube.com/@academiadosdevs).
+>
+> Se você chegou aqui por acaso, considere adquirir a lista completa de exercícios:
+> 👉 [https://academiadosdevs.com.br/jlistxp1](https://academiadosdevs.com.br/jlistxp1)
+>
+> É um valor acessível que apoia o canal e impulsiona seu aprendizado com Java. 💚
 
 ---
 
@@ -26,30 +30,32 @@ Prepare-se para ganhar XP resolvendo desafios práticos, do básico ao intermedi
 - 🔁 Laços de repetição (`for`, `while`, `do-while`)  
 - 🗃️ Arrays (vetores)
 
+---
 
-## 🛠 Como usar
+## 🧩 Suporte e Comunidade
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/jlist-xp-nivel-1.git
+Este projeto **não oferece suporte individual**, mas você pode tirar dúvidas, compartilhar sua evolução e interagir com outros alunos no servidor aberto do Discord:
 
-##
-
-# Gabarito - JList XP Nível 1 (Java Estruturado)
-
-Este repositório contém as soluções para todos os exercícios da **JList XP Nível 1**. Esta lista de exercícios foi criada para complementar o curso gratuito de **Java Estruturado** do canal **Academia dos Devs**.
-
-O objetivo deste gabarito é servir como um material de apoio e consulta para os seus estudos.
-
-▶️ **[Acesse a playlist completa do curso no YouTube](www.youtube.com/playlist?list=PLGPluF_nhP9p6zWTN88ZJ1q9J_ZK148-f)**
+💬 **[Acesse o servidor da Academia dos Devs](https://academiadosdevs.com.br/discord)**
 
 ---
 
-### ⚠️ Aviso Importante
+## 🚀 Como Obter os Códigos
 
-Para aproveitar ao máximo o aprendizado, **tente resolver cada exercício sozinho primeiro**. O gabarito deve ser sua última opção, usado para comparar sua solução, tirar dúvidas ou te ajudar a sair de um bloqueio.
+### Opção 1: Baixar o arquivo `.zip` (Mais simples)
 
-Lembre-se: a evolução na programação vem da prática e da resolução de problemas.
+1. No menu à direita desta página, vá em **Releases**.
+2. Clique na versão mais recente (a de cima).
+3. Em **Assets**, clique no `.zip` para baixar tudo.
+4. Descompacte e abra na sua IDE favorita.
+
+### Opção 2: Clonar com `git clone` (Recomendado)
+
+Se você já usa Git, essa é a melhor forma — facilita atualizações futuras.
+
+```bash
+git clone https://github.com/academiadosdevs/JListXP-Nivel-1
+```
 
 ---
 
